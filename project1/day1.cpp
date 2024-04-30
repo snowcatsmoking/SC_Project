@@ -2,11 +2,10 @@
 using namespace std;
 int main()
 {
-    cout<<"hello"<<endl;
-    int a=8;
-    int b=4;
-    cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½aï¿½ï¿½ï¿½ï¿½Îª\t"<<a<<"\t"<<"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½Îª\t"<<b<<endl;
-    cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pushï¿½ï¿½githubï¿½ï¿½ï¿½ï¿½È¥"<<endl;
-    cout<<"hello world"<endl;
+    //a simple test for different branches
+    int a=114;
+    int b=514;
+    cout<<a+b<<endl;
+    //¾ÍÊÇÄãÂíÉÏ¾ÍÔÚÕâÒ»¶ÎÉÏÖ±½ÓÐÞ¸Ä£¬±ÈÈç°Ña¸Ä³É441£¬ÎÒÀ´¿´Ò»ÏÂÕâ¸öbranchesÔõÃ´·ÖµÄ
     return 0;
 }
