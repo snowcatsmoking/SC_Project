@@ -7,6 +7,5 @@ int main()
     int b=514;
     cout<<a+b<<endl;
     cout<<"fetch successfully!"<<endl;
-    //���������Ͼ�����һ����ֱ���޸ģ������a�ĳ�441��������һ�����branches��ô�ֵ�
     return 0;
 }
