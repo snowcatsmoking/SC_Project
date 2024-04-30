@@ -1,3 +1,0 @@
-D:/SnowCat/SC_Project/project2/cmake-build-debug/CMakeFiles/project2.dir
-D:/SnowCat/SC_Project/project2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/SnowCat/SC_Project/project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
