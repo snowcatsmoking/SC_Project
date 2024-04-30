@@ -1,4 +1,2 @@
-a=int(input())
-b=int(input())
-c=a+b
-print(c)
+print("this is a test")
+print("to test whether git can work successfully")
